@@ -3,11 +3,18 @@
 
 ### Hi there 👋 
 
-### My name is Nedim
+
 
 - 👯 I’m looking to collaborate on DeFi projects
 
 - 📫 Get in touch &nbsp; &nbsp; <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="30 px" alt="mail"></a> 
 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NedimRenesalis&count_private=true)
+
+
+
+### Languages - Tools - Frameworks
 
