@@ -48,6 +48,8 @@ I am a Full Stack Ethereum Developer looking to collaborate on DeFi projects
 ![RedwoodJS](https://img.shields.io/badge/-RedwoodJS-000000?style=flat)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat)
+![FeathersJS](https://img.shields.io/badge/-FeathersJS-000000?style=flat)
+![Concourse-CI](https://img.shields.io/badge/-ConcourseCI-000000?style=flat)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat)
 
 
