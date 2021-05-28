@@ -1,9 +1,11 @@
+
 ![rocketman](https://user-images.githubusercontent.com/19872990/119971908-db0b4e80-bfb1-11eb-8f56-69c4fbf0fea5.jpg)
 
+  
 <br>
-
-### Hi there 👋 
-
+<p align="center">
+  <b>Hi there 👋 </b>
+</p>
 
 - 👯 I’m looking to collaborate on DeFi projects
 
@@ -12,8 +14,12 @@
 <br>
 
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NedimRenesalis&count_private=true)
 
+
+
+  
 <br>
 
 ### Languages - Tools - Frameworks
