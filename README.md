@@ -28,7 +28,7 @@ I am a Full Stack Ethereum Developer looking to collaborate on DeFi projects
 
 
 <p align="center">
-<b>Languages - Tools - Frameworks </b>
+<b>These are the languages, tools and frameworks I use </b>
 </p>
 <br>
 
