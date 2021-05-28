@@ -14,13 +14,12 @@
 <br>
 
 
+
+
+
+
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NedimRenesalis&count_private=true)
 
-
-
-  
-<br>
 
 <p align="center">
 <b>Languages - Tools - Frameworks </b>
