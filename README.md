@@ -22,5 +22,6 @@
   
 <br>
 
-### Languages - Tools - Frameworks
-
+<p align="center">
+<b>Languages - Tools - Frameworks </b>
+</p>
