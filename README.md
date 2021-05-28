@@ -32,7 +32,6 @@ I am a Full Stack Ethereum Developer looking to collaborate on DeFi projects
 </p>
 <br>
 
-
 ![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-000000?style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat)
