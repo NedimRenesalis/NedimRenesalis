@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on DeFi projects
 
-- 📫 Get in touch &nbsp; &nbsp; <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="20 px" alt="mail"></a> 
+
 <br>
 <p align="center">
 🚀     &nbsp &nbsp  &nbsp &nbsp  🚀    &nbsp &nbsp  &nbsp &nbsp    🚀    &nbsp &nbsp  &nbsp &nbsp    🚀     &nbsp &nbsp   &nbsp &nbsp  🚀  
@@ -37,4 +37,8 @@
 <br>
 <br>
 <p align="center"><b><i>---------------<br>"Decentralized financial instruments make cryptocurrency and the blockchain sector capable of accomplishing what was once only possible in traditional money markets." <br>--------------- </i></b></p>
+
+<br>
+<br>
+<p align="center"><b>GET IN TOUCH</b> &nbsp;  <br> <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="40 px" alt="mail"></a> </p>
 
