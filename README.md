@@ -7,10 +7,16 @@
   <b>Hi there 👋 </b>
 </p>
 
+- I am a Full Stack Ethereum Developer
+
 - 👯 I’m looking to collaborate on DeFi projects
 
-- 📫 Get in touch &nbsp; &nbsp; <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="30 px" alt="mail"></a> 
+<br>
 
+<p align="center">
+🚀       🚀       🚀       🚀       🚀       🚀       🚀       🚀       🚀       🚀       🚀       🚀
+</p>
+  
 <br>
 
 
@@ -24,3 +30,6 @@
 <p align="center">
 <b>Languages - Tools - Frameworks </b>
 </p>
+<br>
+
+- 📫 Get in touch &nbsp; &nbsp; <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="30 px" alt="mail"></a> 
