@@ -1,8 +1,9 @@
 ![rocketman](https://user-images.githubusercontent.com/19872990/119971908-db0b4e80-bfb1-11eb-8f56-69c4fbf0fea5.jpg)
 
 
-### Hi there 👋
+### Hi there 👋 
 
+### My name is Nedim
 
 - 👯 I’m looking to collaborate on DeFi projects
 
