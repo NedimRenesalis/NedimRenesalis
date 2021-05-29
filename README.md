@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-I am a Full Stack Ethereum Developer looking to collaborate on DeFi projects
+I am a Full Stack Ethereum Developer.
 </p>
 
 <br>
