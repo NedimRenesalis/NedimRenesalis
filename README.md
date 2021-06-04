@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-I am a Full Stack Ethereum Developer.
+My name is Nedim and I am building awesome stuff on Ethereum.
 </p>
 
 <br>
