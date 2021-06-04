@@ -1,5 +1,4 @@
-
-![rocketman](https://user-images.githubusercontent.com/19872990/119971908-db0b4e80-bfb1-11eb-8f56-69c4fbf0fea5.jpg)
+![ethereum-eth-logo-animated](https://user-images.githubusercontent.com/19872990/120787840-0fda5100-c530-11eb-8c12-39ff4ba7af72.gif) 
 
   
 <br>
@@ -63,6 +62,7 @@ I am a Full Stack Ethereum Developer.
 <br>
 <p align="center"><b><i>---------------<br>"Decentralized financial instruments make cryptocurrency and the blockchain sector capable of accomplishing what was once only possible in traditional money markets." <br>--------------- </i></b></p>
 
+  
 <br>
 <br>
 <p align="center"><b>GET IN TOUCH</b> &nbsp;  <br> <a href="mailto:mag.begic_nedim@yahoo.com"><img src="https://www.vectorlogo.zone/logos/yahoo/yahoo-tile.svg" width="40 px" alt="mail"></a> </p>
