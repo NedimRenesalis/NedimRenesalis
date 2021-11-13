@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-My name is Nedim and I am building awesome stuff on Ethereum.
+My name is Nedim and I am building awesome stuff on EVM-compatible blockchains.
 </p>
 
 <br>
