@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-My name is Nedim and I am Senior Blockchain Researcher at the Austrian Research Center for Blockchain.
+My name is Nedim and I am Senior Blockchain Researcher at the Austrian Blockchain Research Center.
 </p>
 
 <br>
