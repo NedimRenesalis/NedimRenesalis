@@ -63,3 +63,11 @@ My name is Nedim and I am an Ethereum Researcher.
 <p align="center"><b><i>---------------<br>"Decentralized financial instruments make cryptocurrency and the blockchain sector capable of accomplishing what was once only possible in traditional money markets." <br>--------------- </i></b></p>
 
   
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+   <img width="500" height="300" src="https://user-images.githubusercontent.com/19872990/165642268-0a3b0fc9-4c2d-4202-b2f8-60c6262abae4.gif">
+
+  </p>
