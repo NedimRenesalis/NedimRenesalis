@@ -38,8 +38,6 @@ My name is Nedim and I am an Ethereum Researcher.
 ![EthersJS](https://img.shields.io/badge/-EthersJS-000000?style=flat)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-000000?style=flat)
 ![Truffle](https://img.shields.io/badge/-Truffle-000000?style=flat)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat)
@@ -53,8 +51,6 @@ My name is Nedim and I am an Ethereum Researcher.
 ![FeathersJS](https://img.shields.io/badge/-FeathersJS-000000?style=flat)
 ![Concourse-CI](https://img.shields.io/badge/-ConcourseCI-000000?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
