@@ -50,7 +50,7 @@ My name is Nedim and I am a Blockchain Researcher.
 
 <br>
 <br>
-<p align="center"><b><i>---------------<br>"Decentralized financial instruments make cryptocurrency and the blockchain sector capable of accomplishing what was once only possible in traditional money markets." <br>--------------- </i></b></p>
+<p align="center"><b><i>---------------<br>"DeFi protocols are enabling what was once only possible in traditional money markets." <br>--------------- </i></b></p>
 
   
 
