@@ -30,7 +30,7 @@ My name is Nedim and I am an Ethereum Researcher.
 <b>These are the languages, tools and frameworks I use </b>
 </p>
 <br>
-
+<p align="center">
 ![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat)
 ![NuxtJS](https://img.shields.io/badge/-NuxtJS-000000?style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat)
@@ -46,7 +46,7 @@ My name is Nedim and I am an Ethereum Researcher.
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-
+</p>
 
 <br>
 <br>
