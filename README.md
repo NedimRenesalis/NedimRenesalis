@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-My name is Nedim and I am a Blockchain Researcher.
+My name is Nedim and I build awesome stuff on EVM compatible blockchains.
 </p>
 
 <br>
