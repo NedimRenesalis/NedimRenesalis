@@ -1,25 +1,5 @@
 
-
-<p align="center">
-  <b>Hi there 👋 </b>
-</p>
-<br>
-
-<p align="center">
-My name is Nedim and I build awesome stuff on EVM compatible blockchains.
-</p>
-
-<br>
-<p align="center">
-🚀     &nbsp &nbsp  &nbsp &nbsp  🚀    &nbsp &nbsp  &nbsp &nbsp    🚀    &nbsp &nbsp  &nbsp &nbsp    🚀     &nbsp &nbsp   &nbsp &nbsp  🚀  
-</p>
-  
-<br>
-
-
-
-
-
+![Blue Modern Gaming Dekstop Banner Landscape](https://user-images.githubusercontent.com/19872990/187535331-5d3c6a73-9f8a-49f6-8a6e-787ff7402826.gif)
 
   
 
