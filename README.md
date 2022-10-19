@@ -1,5 +1,5 @@
 
-![Blue Modern Gaming Dekstop Banner Landscape](https://user-images.githubusercontent.com/19872990/187535331-5d3c6a73-9f8a-49f6-8a6e-787ff7402826.gif)
+
 
   
 
