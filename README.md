@@ -1,5 +1,6 @@
 
-
+<p align="center"><b><i>"We’re quite confident that when we’re sitting here in twenty years, we’ll be talking about Blockchain Technology the way we talk about the Internet Today”
+- Marc Andreessen<br>--------------- </i></b></p>
 <br>
 <br>
 <p align="center"><b><i>---------------<br>"DeFi protocols are enabling what was once only possible in traditional money markets." <br>--------------- </i></b></p>
