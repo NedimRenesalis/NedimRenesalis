@@ -4,7 +4,7 @@
  <br>
  <br>
  
- <p align="center"><b><i>"I research and code systems at the intersection of Blockchain and Artificial Intelligence."</i></b></p>
+ <p align="center"><b><i>"I research and code systems at the intersection of Artificial Intelligence and Blockchain."</i></b></p>
 
 
 
