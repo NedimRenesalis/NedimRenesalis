@@ -1,10 +1,4 @@
-<p align="center">
-   <img width="400" height="400" src="https://user-images.githubusercontent.com/19872990/217677511-fddefa89-5680-4894-a15c-04d33889820b.gif">
-  </p>
- <br>
- <br>
- 
- <p align="center"><b><i>"I research and build systems at the intersection of Artificial Intelligence and Blockchain."</i></b></p>
+
 
 
 
